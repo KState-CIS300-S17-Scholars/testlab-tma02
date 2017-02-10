@@ -1,0 +1,9 @@
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+c:\users\tnma\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
